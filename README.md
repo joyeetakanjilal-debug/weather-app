@@ -8,3 +8,5 @@ Key features includes search weather by city name, display current temperature a
 Technologies used are React.js, JavaScript, HTML, CSS, REST APIs, Open-Meteo API and Recharts. 
 
 https://github.com/joyeetakanjilal-debug/weather-app/blob/97e0220b61455d28670b31a37e4d0e2b9797bd96/components/weather%20app.mp4
+
+![image_alt](https://github.com/joyeetakanjilal-debug/weather-app/blob/main/components/weather%20app.png)
