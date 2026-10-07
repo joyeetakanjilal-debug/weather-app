@@ -1,0 +1,50 @@
+.hourly-forecast-main-container {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+}
+.hourly-forecast-main-heading {
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+}
+.hourly-forecast-sub-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: rgb(182 185 186 /25%);
+  width: 320px;
+  height: 70px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+.hourly-forecast-mini-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.hourly-forecast-time {
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+}
+.hourly-forecast-weather {
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0px;
+  padding: 5px;
+}
+.hourly-forecast-para {
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 14px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+}
