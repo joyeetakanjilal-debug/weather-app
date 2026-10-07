@@ -1,0 +1,40 @@
+.weather-forecast-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+  height: 45%;
+  width: 90%;
+}
+.weather-forecast-heading {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-top: 5px;
+}
+.forecast-day {
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 18px;
+}
+.forecast-temp {
+  font-family: Roboto;
+  color: #91b3f2;
+  font-size: 20px;
+  font-weight: bold;
+}
+.list-items {
+  list-style-type: none;
+}
+.weather-forecast-sub-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%;
+}
+.weather-icons {
+  color: #ffffff;
+  height: 40px;
+  width: 40px;
+}
